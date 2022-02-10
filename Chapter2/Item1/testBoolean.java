@@ -1,4 +1,4 @@
-package Chapter2;
+package Chapter2.Item1;
 public class testBoolean {
 
     public static void main(String[] args) {

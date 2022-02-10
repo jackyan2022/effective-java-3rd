@@ -1,4 +1,4 @@
-package Chapter2.Service;
+package Chapter2.Item1.Service;
 
 import java.util.*;
 import java.util.concurrent.*;

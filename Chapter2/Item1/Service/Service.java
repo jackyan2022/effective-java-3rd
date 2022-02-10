@@ -1,4 +1,4 @@
-package Chapter2.Service;
+package Chapter2.Item1.Service;
 
 public interface Service {
     
